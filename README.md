@@ -45,5 +45,3 @@ lib/
 ## Implementation Details
 
 - **API**: [ReqRes.in](https://reqres.in/)
-- **Error Handling**: Implemented at both the service and provider layers to catch network failures and display user-friendly messages.
-- **Loading States**: Global loading state managed by Provider to show progress indicators during any async operation.
