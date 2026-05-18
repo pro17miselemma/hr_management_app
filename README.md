@@ -20,13 +20,13 @@ The project follows a clean architecture pattern:
 ```text
 lib/
 ├── core/
-│   ├── models/       # Data models (Employee)
-│   ├── providers/    # State management (EmployeeProvider)
-│   ├── routing/      # Navigation (GoRouter)
-│   ├── services/     # API logic (ApiService)
-│   └── widgets/      # Shared components (EmployeeCard)
+│   ├── models/       
+│   ├── providers/   
+│   ├── routing/     
+│   ├── services/    
+│   └── widgets/     
 └── features/
-    └── presentation/ # UI Screens (HomeScreen, DetailsScreen)
+    └── presentation/
 ```
 
 ## Requirements
