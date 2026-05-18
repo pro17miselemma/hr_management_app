@@ -11,11 +11,7 @@ A Flutter application for managing team members, built as a CRUD demonstration u
   - **Delete**: Remove members via swipe-to-delete or from the detail view.
 - **State Management**: Built using the latest **Provider** package for a clean and reactive architecture.
 - **Network Layer**: Uses the **http** package for RESTful API communication.
-- **Premium UI/UX**:
-  - Custom Material 3 design system.
-  - Smooth Hero animations for profile transitions.
-  - Loading indicators and proper error handling with "Try Again" functionality.
-  - Dismissible list items for quick deletion.
+
 
 ## Project Structure
 
@@ -41,8 +37,6 @@ lib/
 - GoRouter ^17.2.3
 
 ## Screenshots
-
-*(Note: Add your screenshots to the `assets/screenshots` folder and update the links below)*
 
 | Home Screen | Detail View | Add Member | Edit Member |
 | :---: | :---: | :---: | :---: |
